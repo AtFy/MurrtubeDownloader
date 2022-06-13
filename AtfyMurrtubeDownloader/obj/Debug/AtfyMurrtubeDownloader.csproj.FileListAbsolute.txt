@@ -1,0 +1,12 @@
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\bin\Debug\AtfyMurrtubeDownloader.exe.config
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\bin\Debug\AtfyMurrtubeDownloader.exe
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\bin\Debug\AtfyMurrtubeDownloader.pdb
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\bin\Debug\NReco.VideoConverter.xml
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.csproj.AssemblyReference.cache
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.Properties.Resources.resources
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.csproj.GenerateResource.cache
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.csproj.CoreCompileInputs.cache
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.csproj.CopyComplete
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.exe
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.pdb
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Debug\AtfyMurrtubeDownloader.DownloaderForm.resources

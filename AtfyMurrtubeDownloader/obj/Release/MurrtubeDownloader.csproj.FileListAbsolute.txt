@@ -1,0 +1,5 @@
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Release\MurrtubeDownloader.csproj.AssemblyReference.cache
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Release\AtfyMurrtubeDownloader.DownloaderForm.resources
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Release\AtfyMurrtubeDownloader.Properties.Resources.resources
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Release\MurrtubeDownloader.csproj.GenerateResource.cache
+D:\AtFy\Dev\Projects\C#Study\AtfyMurrtubeDownloader\obj\Release\MurrtubeDownloader.csproj.CoreCompileInputs.cache
